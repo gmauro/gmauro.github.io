@@ -8,9 +8,9 @@ permalink:        pretty
 # Setup
 title:            Gmauro
 tagline:          'Personal website'
-description:      'Computer scientist with deep experience on data engineering and data analysis focusing on Bioinformatics. '
-url:              https://gmauro.github.io
-baseurl:          /
+description:      'Computer scientist with deep experience on data engineering and data analysis focusing on Bioinformatics.'
+url:              'https://gmauro.github.io'
+baseurl:          ''
 
 author:
   name:           'Gianmauro Cuccuru'
