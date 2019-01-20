@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Gmauro
+tagline:          'Personal website'
+description:      'Computer scientist with deep experience on data engineering and data analysis focusing on Bioinformatics. '
+url:              https://gmauro.github.io
+baseurl:          /
+
+author:
+  name:           'Gianmauro Cuccuru'
+  url:            https://twitter.com/
+
+paginate:         5
+paginate_path: "/blog/page:num/"
+# Custom vars
+version:          19.01
+plugins: [jekyll-paginate]
+
+github:
+  repo:           https://github.com/gmauro/gmauro.github.io
