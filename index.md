@@ -16,7 +16,7 @@ present- 2019 | Researcher - Bioinformatics Group, Department of Computer Scienc
 2008 - 2007 | Software Engineer - Laboratorio Modelli 3D, Sardegna Ricerche  
 
 
-Member of the​ [Freiburg Galaxy Team](https://galaxyproject.eu/freiburg){:target="_blank"}, one of the leading groups within the worldwide Galaxy project. Development of the official [usegalaxy.eu](https://usegalaxy.eu) server, the biggest Galaxy platform in Europe.  
+Member of the​ [Freiburg Galaxy Team](https://galaxyproject.eu/freiburg){:target="_self"}, one of the leading groups within the worldwide Galaxy project. Development of the official [usegalaxy.eu](https://usegalaxy.eu) server, the biggest Galaxy platform in Europe.  
 Supervised the development of the [CRS4 data-intensive computing infrastructure](http://next.crs4.it) for processing large scale biological data, lead developer of [Orione](/projects/orione) and technical coordinator for CRS4 at the Italian Node of [ELIXIR](http://elixir-italy.org/en).
 
 My current interests are mainly focused on the elaboration of a comprehensive
