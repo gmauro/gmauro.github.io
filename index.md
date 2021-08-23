@@ -16,7 +16,8 @@ present- 2019 | Researcher - Bioinformatics Group, Department of Computer Scienc
 2008 - 2007 | Software Engineer - Laboratorio Modelli 3D, Sardegna Ricerche  
 
 
-Member of the​ [Freiburg Galaxy Team](https://galaxyproject.eu/freiburg){:target="_self"}, one of the leading groups within the worldwide [https://galaxyproject.org](Galaxy project). Currently working on the development of the [UseGalaxy.EU](https://usegalaxy.eu) infrastructure, the European UseGalaxy server.  
+Member of the​ [Freiburg Galaxy Team](https://galaxyproject.eu/freiburg){:target="_self"}, one of the leading groups within the worldwide [https://galaxyproject.org](Galaxy project). Currently working on the development of the [UseGalaxy.EU](https://usegalaxy.eu) infrastructure, the European UseGalaxy server. [Galaxy Training Network](https://training.galaxyproject.org/archive/2021-08-01/hall-of-fame/gmauro/) contributor.
+
 Previously, I supervised the implementation of the [CRS4 data-intensive computing infrastructure](http://next.crs4.it) for processing large scale biological data, led the development of [Orione](/projects/orione) (one of the first public Galaxy instances in Italy), and served as technical coordinator for CRS4 at the Italian Node of [ELIXIR](http://elixir-italy.org/en).
 
 My current interests are mainly focused on the elaboration of a comprehensive approach to support the data management and  integration, the processes' 
