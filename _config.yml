@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Gmauro
 tagline:          'Personal website'
-description:      'Computer scientist focusing on Bioinformatics with deep experience on data engineering and infrastructures for computing.'
+description:      'Computer scientist focusing on Bioinformatics with a deep experience in data engineering and computing infrastructures for large-scale Genomics.'
 url:              'https://gmauro.github.io'
 baseurl:          '/'
 
