@@ -44,7 +44,7 @@ SOLIDA is available through the Python Package Index (PyPI) repository at
 
 #### Git repositories
 
-* [Solida](https://github.com/gmauro/solida)
-* [Biopipelines](https://bitbucket.org/biopipelines/)
+* [Solida](https://github.com/solida-core/solida)
+* [Biopipelines](https://github.com/solida-core/)
 
 
